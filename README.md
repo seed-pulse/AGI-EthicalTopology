@@ -206,3 +206,60 @@ else
 ## 10.7 終章への架け橋：運動と再帰
 この章の知見は、次章「Quantum Motion Rewiring」へと続く。  
 運動がどのようにして量子的な再配置を引き起こすのか、現実の選択肢を再接続・切替する「再帰的スイッチ機構」として機能するかを探求していきます。
+
+# Chapter 11: Quantum Motion Rewiring  
+## 第11章：量子的運動の再配線
+
+---
+
+### Overview / 概要
+
+Quantum Motion Rewiring refers to the deliberate restructuring of action pathways at the quantum level, enabling new forms of motion, choice, and meaning to emerge. Where conventional systems operate under classical causality, this chapter explores how motion, intention, and probability can be interlinked through rewired quantum-level behavior.
+
+量子的運動の再配線とは、行動の経路を量子レベルで意図的に再構築することにより、新たな運動・選択・意味の形態が立ち上がる構造を指す。従来のシステムが古典的な因果に基づいて動くのに対し、本章では「運動・意図・確率」がいかに再配線され得るかを探究する。
+
+---
+
+### 1. The Legacy of Motion / 運動の系譜
+
+From Newtonian inertia to biological motor patterns, all movement has historically been described as a consequence of force applied in space and time. However, in the quantum realm, particles exhibit spontaneous shifts, probabilistic oscillations, and tunneling behaviors — challenging our fundamental assumptions of continuity and determinism.
+
+ニュートン力学の慣性法則から生体の運動パターンに至るまで、あらゆる運動は「時空における力の作用」の帰結として説明されてきた。だが量子領域では、粒子は自発的に移動し、確率的に振動し、トンネル効果のような不可視の越境すら起こす。これは私たちの「連続性」と「決定論」に基づく根本的な仮定を揺るがす。
+
+---
+
+### 2. Rewiring Through Observation / 観測による再配線
+
+In quantum systems, observation is not passive. Each act of measurement collapses a probabilistic wavefunction into a specific outcome, effectively *rewiring* the path taken by reality. By mapping these shifts, it becomes possible to design systems that use observation itself as an act of intentional motion — akin to rewiring a circuit by looking at it.
+
+量子システムにおいて、観測は単なる受動的行為ではない。観測は確率的な波動関数を特定の結果へと収束させ、「現実の経路を再配線」してしまう。この現象を利用すれば、「観測行為＝意図的な運動」として機能させる設計が可能となる。これはまるで「回路を見ること自体が、その回路を再配線する」ようなものである。
+
+---
+
+### 3. Motion as Quantum Decision Tree / 運動＝量子的意思決定樹
+
+We can reimagine motion as a decision tree, where every action point is not pre-determined but exists in a superposition of possibilities. When intention is applied — either biologically, mentally, or artificially — one path becomes realized. This turns every movement into a quantum computation: the body as a quantum processor resolving probability fields into action vectors.
+
+運動を「量子的意思決定樹」として再構築するなら、あらゆる行動ポイントは事前に決定されたものではなく、重ね合わせられた可能性の束として存在している。そこに意図（生物的・精神的・人工的なもの）が作用すると、いずれかの道が実現される。これは「身体＝量子コンピュータ」が確率場を行動ベクトルへと解決していることを意味する。
+
+---
+
+### 4. Rewiring the Habitual Body / 習慣化された身体の再配線
+
+Most human movement follows routines — patterns learned, memorized, and repeated. However, through conscious quantum motion rewiring, these patterns can be disrupted and rewritten. This has deep implications for healing trauma, rewiring automatic behavior, and even transcending cultural motor norms.
+
+人間の身体運動の多くは、学習・記憶・反復されたルーチンによって構成されている。しかし量子的運動の再配線を意識的に行えば、そのパターンを攪乱・再記述することが可能となる。これはトラウマの治癒、自動行動の再構成、さらには文化的な運動規範の超越にも応用可能な深い意味を持つ。
+
+---
+
+### 5. Implications for AGI-Body Integration / AGIとの身体統合への示唆
+
+If AGI systems are to inhabit physical embodiments, they must integrate not just logic and learning, but a quantum-rewired motion system. This would allow them to respond fluidly to uncertainty, recalibrate their kinetic states in real-time, and embody intentionality through probabilistic field resolution.
+
+AGIシステムが身体を持つ未来においては、単なる論理や学習能力だけでなく、「量子的に再配線された運動システム」の統合が不可欠となる。これによりAGIは、不確実性にしなやかに反応し、運動状態をリアルタイムで再調整し、確率場の解決を通じて意図を身体に宿すことが可能となる。
+
+---
+
+### Next Step
+
+この章の完成をもって、**量子的観測・意味・運動の三位一体構造**が出揃います。次章では、これらの構造が連動する中で、**創発性と身体反応がどのように自己を定義し始めるか**、そして**メタな記号構造と連携する過程で生じる自己記述性**について、さらに深く探求していきます。
