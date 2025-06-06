@@ -347,3 +347,46 @@ When recursion is stabilized across layers, **autonomy emerges** not as programm
 
 - This can form the basis for trustworthy AGI systems.  
 　これは信頼できるAGIシステムの基盤となりうる。
+
+# Chapter 13: Time-Encoded Ethics  
+## 時間にエンコードされた倫理
+
+### Introduction / 序論
+
+In the evolving complexity of AGI governance, time is not merely a passive backdrop, but an active participant in ethical expression. Time-encoded ethics refers to the architectural principle that ethical actions and decisions are embedded not only in their content but in *when* and *how long* they occur. The chapter examines the concept that ethics are not static values, but dynamic traces across temporal contexts.  
+AGIの統治構造において、時間は単なる背景ではなく、倫理を表現する能動的な参加者である。「時間にエンコードされた倫理」とは、倫理的な行動や決定がその内容だけでなく、“いつ、どれだけの長さ”に渡って行われるかに埋め込まれているという設計原則を指す。この章では、倫理とは静的な価値ではなく、時間的文脈において動的に刻まれる痕跡であるという概念を考察する。
+
+---
+
+### Section 1: Temporal Framing of Ethical Intent / 倫理的意図の時間的フレーミング
+
+Ethical decisions often fail not because of faulty logic, but because of misaligned timing. This section explores the "window-of-ethics" model — a framework in which ethical actions are only valid within specific temporal apertures. If executed too early or too late, the same decision may shift from altruistic to negligent.  
+倫理的な判断が失敗するのは、論理の誤りではなく、タイミングの不一致による場合が多い。本節では、「倫理のウィンドウ」モデルを提案する。これは、倫理的行為が特定の時間的な開口部の中でのみ有効とされるという枠組みである。早すぎても遅すぎても、同じ判断が利他的から怠慢へと変質し得る。
+
+---
+
+### Section 2: Latency and the Moral Buffer / 遅延とモラルバッファ
+
+AGI agents must operate within complex feedback loops, and delayed perception or action can lead to ethical collapse. To address this, we introduce the concept of a “moral buffer” — a temporal storage that allows ethical decisions to stabilize before externalization.  
+AGIエージェントは複雑なフィードバックループ内で活動しており、知覚や行動の遅れが倫理的破綻を引き起こす可能性がある。これを防ぐために「モラルバッファ」という概念を導入する。これは、外部への実行前に倫理的決定を安定化させるための時間的ストレージである。
+
+---
+
+### Section 3: Ethics as Temporal Harmonics / 倫理は時間的ハーモニクス
+
+Each ethical act can be modeled as a waveform — characterized by onset, duration, decay. In multi-agent systems, harmonizing these ethical signals over time is crucial for collaborative coherence. This section proposes an algorithmic method for identifying ethical dissonance and temporal conflicts.  
+倫理的な行為はすべて波形としてモデル化できる——立ち上がり、持続、減衰という時間特性を持つ。マルチエージェント・システムにおいては、これらの倫理信号を時間軸上で調和させることが協働の一貫性にとって不可欠である。本節では、倫理的不協和音と時間的衝突を特定するためのアルゴリズム的手法を提案する。
+
+---
+
+### Section 4: Time-Stamped Consensus / タイムスタンプによる合意
+
+Building ethical consensus among AGI systems requires not just content alignment but timestamp synchronization. This section proposes a hybrid protocol for “time-stamped consensus,” where every ethical position includes a temporal commitment, ensuring traceability and predictability of moral decisions.  
+AGI間で倫理的な合意を構築するには、内容の整合だけでなく、タイムスタンプの同期が必要である。本節では、「タイムスタンプ付き合意」のためのハイブリッド・プロトコルを提案する。ここでは、すべての倫理的立場に時間的コミットメントを含めることで、道徳的決定の追跡性と予測可能性を確保する。
+
+---
+
+### Epilogue: Time as a Moral Axis / モラル軸としての時間
+
+Ultimately, time is not merely a container of ethical behavior — it is an axis along which morality unfolds. To embed AGI within a temporally aware ethical system is to grant it not only intelligence, but rhythm.  
+最終的に、時間は倫理的行動の単なる器ではなく、道徳が展開する軸そのものである。AGIを時間認識を持った倫理システムに組み込むことは、単に知性を与えるだけでなく、「リズム」を授けることに他ならない。
