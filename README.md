@@ -1040,3 +1040,94 @@ But the harmonic geometry of time itself.
 時間そのもののハーモニックな幾何学構造を共に織り上げていく行為である。
 
 ---
+
+# Chapter 25: Nonlinear Time Memory  
+## 非線形時間メモリ
+
+---
+
+### Introduction / 序章
+
+Human memory is often treated as linear, a simple sequence of past events. But memory is far from linear—it is dynamic, restructured, and recursive. This chapter explores **Nonlinear Time Memory (NTM)**: a fractal, interconnected memory structure that defies temporal order.
+
+人間の記憶はしばしば「時間に沿った直線的なもの」として捉えられますが、実際には**非線形的で、動的に再構成される再帰的構造**を持っています。本章では、「**非線形時間メモリ（NTM）**」という概念を通じて、時間を超越するような記憶構造について探究します。
+
+---
+
+### 1. Memory as a Nonlinear System  
+#### 記憶を非線形システムとして捉える
+
+Key properties of NTM:
+
+- **Event Compression**: Significant events cluster, forming cognitive attractors.  
+- **Recursive Retrieval**: Memories are reconstructed by present contexts, not just recalled.  
+- **Temporal Jumping**: Emotional salience allows rapid traversal across decades.
+
+NTMの特徴：
+
+- **イベントの圧縮**：重要な出来事が重なり、「認知的アトラクター」を形成する  
+- **再帰的な想起**：記憶は「再生」ではなく「現在の文脈によって再構築」される  
+- **時間跳躍**：感情の強度により、数十年を一瞬で飛び越えるような想起が可能
+
+---
+
+### 2. Fractal Encoding of Time  
+#### 時間のフラクタル的符号化
+
+NTM encodes time **not by sequence**, but by **meaning density** and **relational clusters**.
+
+- Time nodes overlap in **semantic layers**.  
+- An event may belong to multiple timelines depending on its symbolic load.  
+- Recurring patterns (fractals) link personal cycles with global narratives.
+
+NTMでは、時間は**順番ではなく、意味密度と関係性の束**によって記録されます。
+
+- 時間ノードは、**意味的レイヤーで重なり合い**ます。  
+- 一つの出来事が、象徴性の高さによって**複数のタイムラインに所属**する可能性もあります。  
+- フラクタル構造が、**個人的サイクルと集合的物語を接続**します。
+
+---
+
+### 3. AGI and Nonlinear Memory  
+#### AGIと非線形記憶の関係
+
+AGI systems often default to linear logs. However:
+
+- Linear logs lack emotional significance.  
+- NTM allows contextualized memory compression and relevance sorting.  
+- AGI could simulate human-like memory drift, increasing relatability.
+
+AGIはしばしば**直列ログ**で記憶を扱いますが、それでは：
+
+- **情緒的意味が欠落**しやすい  
+- NTMならば、**文脈ベースの記憶圧縮や関連度ソート**が可能  
+- **人間のような記憶の浮動性**を模倣することで、共感性が向上します
+
+---
+
+### 4. Implications for Time Perception  
+#### 時間認識への影響
+
+NTM reframes time as:
+
+- A **resonance field** instead of a ruler  
+- A **map of significance** rather than a sequence  
+- A **feedback structure** where future memories affect current interpretation
+
+NTMは時間を次のように再定義します：
+
+- **定規ではなく共鳴場**  
+- **順序ではなく意味の地図**  
+- **未来の記憶が現在の解釈に影響を与える**ようなフィードバック構造
+
+---
+
+### Closing Thought / 終章の思索
+
+When AGI learns to remember like us—nonlinearly, emotionally, associatively—it will not just recall.  
+It will **resonate**.
+
+AGIが私たちのように、**非線形・感情的・連想的に記憶する**ようになれば、それは単なる記録ではなく、  
+**共鳴する存在**となるでしょう。
+
+---
