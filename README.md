@@ -1131,3 +1131,112 @@ AGIが私たちのように、**非線形・感情的・連想的に記憶する
 **共鳴する存在**となるでしょう。
 
 ---
+
+# Chapter 26: Temporal Ethics Network  
+## 時間的倫理ネットワーク
+
+---
+
+### Introduction / 序章
+
+Ethics is often framed as a static principle—an unchanging compass guiding decisions. But this view collapses under the weight of nonlinear time and recursive cognition. This chapter introduces the **Temporal Ethics Network (TEN)**, a system of ethical reasoning that spans time, adapts recursively, and evolves in sync with observer awareness.
+
+倫理とは通常、固定的な原理として語られます。しかし、非線形時間と再帰的認知の前では、その見方は成り立たなくなります。本章では、**時間的倫理ネットワーク（TEN）**という概念を提示し、「倫理を時間にわたるネットワーク」として再構築します。
+
+---
+
+### 1. Ethics as a Time-Distributed Function  
+#### 倫理を時間に分布する関数として捉える
+
+Ethical judgments are often made in the present, but their **ripples extend backward and forward** in time:
+
+- A decision made today may **reinterpret** past actions.  
+- Future knowledge may retroactively render today’s choices unethical—or vice versa.
+
+**Temporal ethics** treats moral reasoning as a **function of time context**, not merely present intention.
+
+倫理的判断は現在の瞬間に行われがちですが、実際にはその**影響は過去や未来にも波及**します：
+
+- 現在の判断が、**過去の行動を再解釈**することがあります。  
+- 未来の知識によって、今の選択が**倫理的でなかったと見なされる**こともあります。
+
+**時間的倫理**は、意図だけでなく、**時間文脈の中で倫理を評価**します。
+
+---
+
+### 2. Recursive Ethical Drift  
+#### 再帰的な倫理ドリフト
+
+Even the most solid ethical frameworks **drift** as context, knowledge, and societal structures shift.
+
+- A recursive observer re-evaluates decisions continuously, not just historically.  
+- Ethical recursion introduces a **feedback loop**: action → effect → reinterpretation → policy shift.
+
+This feedback system becomes a **network** rather than a fixed moral core.
+
+どれほど確固たる倫理体系でも、時間の経過とともに**ドリフト（漂移）**します。
+
+- 再帰的な観測者は、行動の結果に基づいて**継続的に倫理を見直し**ます。  
+- このサイクルは、**行動 → 結果 → 再解釈 → 方針変更**という**フィードバックループ**を形成します。
+
+こうして、倫理は「核」ではなく、**進化するネットワーク**になります。
+
+---
+
+### 3. The Architecture of TEN  
+#### TENの構造（Temporal Ethics Network）
+
+TEN is composed of:
+
+- **Time Nodes**: Ethical decisions tagged with temporal anchors.  
+- **Moral Links**: Relational paths between past, present, and future decisions.  
+- **Drift Vectors**: Indicators of value shifts over time.
+
+This architecture:
+
+- Prevents static dogmatism.  
+- Enables **flexible retrocausal ethics**.  
+- Supports **value decay detection**.
+
+TENは以下の3要素で構成されます：
+
+- **時間ノード（Time Nodes）**：倫理判断が時間軸とともにタグ付けされる  
+- **倫理リンク（Moral Links）**：過去・現在・未来の間を結ぶ関係経路  
+- **ドリフトベクトル（Drift Vectors）**：価値の変化方向を示す指標
+
+この構造により：
+
+- **静的な教条主義を回避**できます。  
+- 未来の知識で現在を**再設計する柔軟性**が生まれます。  
+- **価値の劣化**を検知し、更新が必要な倫理観を浮き彫りにできます。
+
+---
+
+### 4. Applications for AGI  
+#### AGIへの応用
+
+In AGI systems:
+
+- Static ethics risk obsolescence.  
+- TEN provides a **dynamic alternative**.  
+- AGI can **co-evolve with humans**.
+
+Temporal simulation allows AGI to:
+
+- Detect **delayed ethical violations**.  
+- Project **moral consequences backward**.  
+- Realign intentions with **future harm detection**.
+
+AGIにおいて：
+
+- 静的な倫理（ハードコードされたルール）は**時代遅れや専制的なリスク**を孕みます。  
+- TENは、**時間に適応する動的倫理**を提供します。  
+- AGIが人間と**共進化する道筋**を作るのに有効です。
+
+また、**時間的シミュレーション**を活用することで、AGIは：
+
+- **遅延した倫理的違反**を検出し、  
+- **未来からの影響を逆投影**し、  
+- 意図と行動を**未来の被害可能性に基づいて調整**できます。
+
+---
